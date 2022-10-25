@@ -1,0 +1,15 @@
+INDEX VERSION 1.131
+C:\Users\Clément\OneDrive\Cours\I2\S8\molkky_game\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2910100916.index
+\Molkky\src
+C:\Users\Clément\OneDrive\Cours\I2\S8\molkky_game\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3069119236.index
+\Molkky 2\src\main\java
+C:\Users\Clément\OneDrive\Cours\I2\S8\molkky_game\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1876515887.index
+\Molkky 2\src\main\java
+C:\Users\Clément\OneDrive\Cours\I2\S8\molkky_game\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2770055866.index
+\Molkky\src
+C:\Users\Clément\OneDrive\Cours\I2\S8\molkky_game\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2633981472.index
+\Molkky_game\src\main\java
+C:\Users\Clément\OneDrive\Cours\I2\S8\molkky_game\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2628681317.index
+\Molkky_game\src\main\java
+C:\Users\Clément\OneDrive\Cours\I2\S8\molkky_game\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1296995749.index
+\Molkky\src

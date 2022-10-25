@@ -1,0 +1,18 @@
+
+S	java:S108 ")Either remove or fill this block of code.(É®£H)RMAJORZ
+CODE_SMELL
+S	java:S108)")Either remove or fill this block of code.(¢…ÊÇH*RMAJORZ
+CODE_SMELL
+‰
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ¼¥±ÿÿÿÿÿH+RMINORZ
+CODE_SMELL
+‰
+java:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÑÒ§ĞÿÿÿÿÿH-RMINORZ
+CODE_SMELL
+u
+java:S20955"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÿÇÒÒH/RBLOCKERZBUG
+r
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‘öè¯ûÿÿÿÿH0RBLOCKERZBUG
+b
+java:S2589'"7Remove this expression which always evaluates to "true"(Å€‚êH1RMAJORZ
+CODE_SMELL

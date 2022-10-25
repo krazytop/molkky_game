@@ -1,0 +1,11 @@
+
+|	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(×©€óûÿÿÿÿH4RMINORZ
+CODE_SMELL
+_	java:S108")Either remove or fill this block of code.(÷­ë®úÿÿÿÿ8Ç¤å½‚0H5RMAJORZ
+CODE_SMELL
+j
+java:S1118	":Add a private constructor to hide the implicit public one.(×©€óûÿÿÿÿH6RMAJORZ
+CODE_SMELL
+d
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8Ç¤å½‚0H7RMAJORZ
+CODE_SMELL

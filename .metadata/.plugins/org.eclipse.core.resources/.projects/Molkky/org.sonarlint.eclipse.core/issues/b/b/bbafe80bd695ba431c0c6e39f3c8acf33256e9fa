@@ -1,0 +1,25 @@
+
+e
+java:S1161+":Add the "@Override" annotation above this method signature(‹¨¯¿H8RMAJORZ
+CODE_SMELL
+
+java:S1989B"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(’…ştH:RMINORZVULNERABILITY
+
+java:S1989&"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(â¼ğH;RMINORZVULNERABILITY
+j
+java:S1161!":Add the "@Override" annotation above this method signature(Ïû©ÖûÿÿÿÿH<RMAJORZ
+CODE_SMELL
+c
+java:S2441="@Make "BeanEquipe" serializable or don't store it in the session.(İø¹H>RMAJORZBUG
+q
+java:S1858,"F"getParameter" returns a string, there's no need to call "toString()".(ùİĞH?RMINORZ
+CODE_SMELL
+q
+java:S1858/"F"getParameter" returns a string, there's no need to call "toString()".(ıÑêŞHARMINORZ
+CODE_SMELL
+c
+java:S2441>"?Make "BeanMatch" serializable or don't store it in the session.(¾„ HCRMAJORZBUG
+i
+java:S2441<"@Make "BeanEquipe" serializable or don't store it in the session.(Ÿ‘ÇùùÿÿÿÿHDRMAJORZBUG
+b
+java:S2441?">Make "BddMatch" serializable or don't store it in the session.(³µÜéHERMAJORZBUG
